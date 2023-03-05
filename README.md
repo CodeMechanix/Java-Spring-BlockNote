@@ -9,4 +9,3 @@ A collection of code examples from my learning etc.
 - [ ] Saving Time with Structured Logging
 - [ ] Validation with Spring Boot - the Complete Guide
 - [ ] Retry with Spring Boot and Resilience4j
-- [ ] 
